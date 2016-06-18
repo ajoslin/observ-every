@@ -1,7 +1,7 @@
 {
   "name": "observ-every",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Represent a set of observs as one boolean, saying whether they are all truthy",
   "license": "MIT",
   "repository": "ajoslin/observ-every",
